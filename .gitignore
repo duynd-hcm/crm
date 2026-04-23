@@ -1,0 +1,14 @@
+# Ignore auto-generated zip archives
+*.zip
+ELC_CRM_Application.zip
+
+# Windows specific
+thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
